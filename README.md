@@ -32,6 +32,9 @@ python -m pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
+```
+pip install djoser
+```
 - Выполянем миграции
 ```
 python manage.py migrate
